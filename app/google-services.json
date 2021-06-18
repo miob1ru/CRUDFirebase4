@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747803626889",
+    "project_id": "crud-firebase-4",
+    "storage_bucket": "crud-firebase-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747803626889:android:8b8fc078e01ad146d46558",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase4Andik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747803626889-edk3r9fh7fj2sldkqmuvc4q2mthgn975.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crudfirebase4Andik",
+            "certificate_hash": "3991747d64216e98c716dfed24f5f5e7b48434b1"
+          }
+        },
+        {
+          "client_id": "747803626889-leprqkl9p0ok1itfkfihcbr7dompipuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crudfirebase4Andik",
+            "certificate_hash": "73c1d9214dea9fdc9d73549a894cba75ad16d40e"
+          }
+        },
+        {
+          "client_id": "747803626889-eu0so7ppn6v6djfkbganpkr6bsqa3k83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1fEd0FFhLEqmAD0tE36SSBVobpj35gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747803626889-eu0so7ppn6v6djfkbganpkr6bsqa3k83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
